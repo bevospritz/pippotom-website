@@ -1,0 +1,44 @@
+[
+    {   
+        "id": 1,
+        "color": "",
+        "date": "1986",
+        "descr": "Mi chiamo Filippo Tommaso, nato nel 1986 a Firenze. Vivo in rasile a Ribeirao Preto da ormai 6 anni con mia moglie Vanessa e la nuova arrivata Maite. Ho frequentato le scuole tra Milano e Trieste dove la mia famiglia abitava ai tempi. Al termine del liceo scientifico andai in Australia, il più lontano possibile da tutto, giusto per fare stare tranquilli i miei."
+    },
+    {   
+        "id": 2,
+        "color": "",
+        "date": "2007",
+        "descr": "Tornato, non più che 19enne, ho cominciato a frequentare la facoltà di informatica all'Università di Trieste. L'indipendenza economica vissuta in Australia stuzzicava. Così abbandonai gli studi per il lavoro. Barista, gelataio, cameriere, qualunque cosa mi desse qualche soldino in tasca per i miei vizi."
+    },
+    {   
+        "id": 3,
+        "color": "",
+        "date": "2008",
+        "descr": "Sono sempre stato affascinato dalla tecnologia e dalla grafica: improvvisato un CV, fui assunto in una tipografia come grafico, impaginatore."
+    },
+    {   
+        "id": 4,
+        "color": "",
+        "date": "2009",
+        "descr": "Il richiamo dell'Australia fece si che partissi nuovamente. Lasciata una fetta del mio cuore là, tornai con un diploma in Inglese CAE."
+    },
+    {   
+        "id": 5,
+        "color": "",
+        "date": "2010",
+        "descr": "Decisi di concentrarmi nel 3d, e da autodidatta cominciai ad usare 3ds Max, Mudbox e motori grafici come Unreal Engine. Cominciai a lavorare per una startUp in Area di ricerca a Padriciano allo sviluppo di un browser-game che non vide mai la luce;"
+    },
+    {   
+        "id": 6,
+        "color": "",
+        "date": "2011",
+        "descr": "L'esperienza accumulata mi garantì l'assunzione come grafico in illycaffè dove lavorai in Art Direction;"
+    },
+    {   
+        "id": 7,
+        "color": "",
+        "date": "2013",
+        "descr": "Era tempo di abbandonare tutto di nuovo e intraprendere un viaggio di scoperta durato 6 mesi in India e Nepal."
+    }    
+]
