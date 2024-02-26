@@ -279,10 +279,17 @@ hr.hr-fat {
     "wdth" 100;
   padding: 50px;
 }
-/* 
-.car-item {
-
-} */
+.car-hidden {
+  display: flex;
+  opacity: 0%;
+  background-color: #2C3639;   
+  padding: 20px;
+  color: #DCD7C9;
+  text-align: justify;
+  font-family: "Fredoka", sans-serif;
+  justify-content: center;
+  box-shadow: 0px 3px 20px 0px #141414 !important;
+}
 .car-amarcord {
   background-color: #2C3639;   
   padding: 20px;
@@ -296,13 +303,9 @@ hr.hr-fat {
 @media (max-width: 767px) {
   .carousel-caption {
    opacity: 0%;
-  }
-
-  .carousel-caption::after {
-    content: "<h3> </h3>";
-   } 
-  .carousel-caption h3 {
-    font-size: small;
+  }  
+  .car-hidden {
+    opacity: 100%;
   }
 }
 
@@ -365,9 +368,9 @@ hr.hr-fat {
     "wdth" 100;
 }
 
-/* --------- */
+/* --------------------------------------------------------------- */
 /* About */
-/* --------- */
+/* --------------------------------------------------------------- */
 
 .about-main {
   
@@ -425,6 +428,7 @@ background-color:#DCD7C9 !important;
   }
  
   .about-p {
+    
     margin-left: 0px;
     margin-right: 450px;
     left:0%;
@@ -434,7 +438,8 @@ background-color:#DCD7C9 !important;
   .vertical-timeline--two-columns .vertical-timeline-element-content .vertical-timeline-element-date {
     
     width: 100%;
-    left: 80%;
+    
+    left: 0px;
     top: -12px;
     font-size: 1.5rem;
   }

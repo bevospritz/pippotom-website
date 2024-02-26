@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1, 
+        "img": "../../Assets/carusel/frez.jpg",
+        "title": "John Malkovich as Freeza",
+        "descr": "Chi non ha mai pensato ad un Freeza in versione Teddy KGB mente"
+    },
+    {
+        "id": 2, 
+        "img": "../../Assets/carusel/goku.jpg",
+        "title": "Mel Gibson as Goku",
+        "descr": "Chi non ha mai pensato ad un Freeza in versione Teddy KGB mente"
+    },
+    {
+        "id": 3, 
+        "img": "../../Assets/carusel/ken.jpg",
+        "title": "Sylvester Stallone as Ken il guerriero",
+        "descr": "Chi non ha mai pensato ad un Freeza in versione Teddy KGB mente"
+    },
+    {
+        "id": 4, 
+        "img": "../../Assets/carusel/raul.jpg",
+        "title": "Arnold Schwarzenegger as Raoul - Kenshiro",
+        "descr": "Recentemente ho scoperto che proprio Hara, il disegnatore, si era ispirato al Rutger Hauer di Blade Runner"
+    }
+]

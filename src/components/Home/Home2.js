@@ -6,6 +6,7 @@ import imgGoku from "../../Assets/carusel/goku.jpg";
 import imgKen from "../../Assets/carusel/ken.jpg";
 import imgRaul from "../../Assets/carusel/raul.jpg";
 
+
 function Home2() {
   const [index, setIndex] = useState(0);
 
@@ -32,7 +33,7 @@ function Home2() {
             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item className="car-item">
+        <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
             src={imgGoku}
@@ -43,7 +44,7 @@ function Home2() {
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item className="car-item">
+        <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
             src={imgKen}
@@ -56,7 +57,7 @@ function Home2() {
             </p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item className="car-item">
+        <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
             src={imgRaul}
@@ -69,7 +70,7 @@ function Home2() {
             </p>
           </Carousel.Caption>
         </Carousel.Item>
-      </Carousel>
+      </Carousel>    
       <div className="car-amarcord">
         <p>
           Cresiuto a cavallo tra gli anni '80 e '90 Kenshiro, DragonBall, i
