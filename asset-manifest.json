@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bevospritz/pippotom-website/static/css/main.2de7761d.css",
+    "main.js": "/bevospritz/pippotom-website/static/js/main.5cdc7e9f.js",
+    "static/media/mia_festaJun.jpg": "/bevospritz/pippotom-website/static/media/mia_festaJun.1b384a45135939d43eda.jpg",
+    "static/media/frez.jpg": "/bevospritz/pippotom-website/static/media/frez.b33a47181ea870073c81.jpg",
+    "static/media/goku.jpg": "/bevospritz/pippotom-website/static/media/goku.359997a48413dbda4ed1.jpg",
+    "static/media/raul.jpg": "/bevospritz/pippotom-website/static/media/raul.650286f9e7be0815b416.jpg",
+    "static/media/ken.jpg": "/bevospritz/pippotom-website/static/media/ken.2e9e955b16f72e2a1372.jpg",
+    "index.html": "/bevospritz/pippotom-website/index.html",
+    "main.2de7761d.css.map": "/bevospritz/pippotom-website/static/css/main.2de7761d.css.map",
+    "main.5cdc7e9f.js.map": "/bevospritz/pippotom-website/static/js/main.5cdc7e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de7761d.css",
+    "static/js/main.5cdc7e9f.js"
+  ]
+}
