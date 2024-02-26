@@ -6,7 +6,7 @@ import Home3 from "./Home3";
 
 function Home() {
   return (
-    <section fluid className="home-section">
+    <section className="home-section">
       <Container  id="home">
         <Container className="home-content">
           <Row className="justify-content-md-center">
