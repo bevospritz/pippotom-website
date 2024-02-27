@@ -1,11 +1,6 @@
 import React from "react";
 import { useState } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import imgFrez from "../../Assets/carusel/frez.jpg";
-import imgGoku from "../../Assets/carusel/goku.jpg";
-import imgKen from "../../Assets/carusel/ken.jpg";
-import imgRaul from "../../Assets/carusel/raul.jpg";
-
 
 function Home2() {
   const [index, setIndex] = useState(0);
@@ -25,7 +20,7 @@ function Home2() {
         <Carousel.Item className="car-item">
           <img
             className="imgcar d-block w-100"
-            src={imgFrez}
+            src={require("../../Assets/carusel/frez.jpg")}
             alt="John Malkovich as Freeza"
           />
           <Carousel.Caption>
@@ -36,7 +31,7 @@ function Home2() {
         <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
-            src={imgGoku}
+            src={require("../../Assets/carusel/goku.jpg")}
             alt="Mel Gibson as Goku"
           />
           <Carousel.Caption>
@@ -47,7 +42,7 @@ function Home2() {
         <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
-            src={imgKen}
+            src={require("../../Assets/carusel/ken.jpg")}
             alt="Sylvester Stallone as Ken Shiro"
           />
           <Carousel.Caption>
@@ -60,7 +55,7 @@ function Home2() {
         <Carousel.Item className="car-item" >
           <img
             className="imgcar d-block w-100"
-            src={imgRaul}
+            src={require("../../Assets/carusel/raul.jpg")}
             alt="Arnold Schwarzenegger as Raoul - Kenshiro"
           />
           <Carousel.Caption>

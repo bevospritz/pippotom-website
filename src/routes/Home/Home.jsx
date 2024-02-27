@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import fotoMia from "../../Assets/foto/mia_festaJun.jpg";
 import Home2 from "./Home2";
 import Home3 from "./Home3";
 
@@ -27,7 +26,8 @@ function Home() {
 
             <Col md={{ span: 4, offset: 1 }} className="home-img">
               <img
-                src={fotoMia}
+                src={require("../../Assets/foto/mia_festaJun.jpg")}
+                
                 alt="home pic"
                 className="profile-pic img-fluid"
                 style={{ maxHeight: "250px" }}
