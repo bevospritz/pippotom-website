@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bevospritz/pippotom-website/static/css/main.2de7761d.css",
-    "main.js": "/bevospritz/pippotom-website/static/js/main.a681f2a7.js",
-    "static/media/mia_festaJun.jpg": "/bevospritz/pippotom-website/static/media/mia_festaJun.1b384a45135939d43eda.jpg",
-    "static/media/frez.jpg": "/bevospritz/pippotom-website/static/media/frez.b33a47181ea870073c81.jpg",
-    "static/media/goku.jpg": "/bevospritz/pippotom-website/static/media/goku.359997a48413dbda4ed1.jpg",
-    "static/media/raul.jpg": "/bevospritz/pippotom-website/static/media/raul.650286f9e7be0815b416.jpg",
-    "static/media/ken.jpg": "/bevospritz/pippotom-website/static/media/ken.2e9e955b16f72e2a1372.jpg",
-    "index.html": "/bevospritz/pippotom-website/index.html",
-    "main.2de7761d.css.map": "/bevospritz/pippotom-website/static/css/main.2de7761d.css.map",
-    "main.a681f2a7.js.map": "/bevospritz/pippotom-website/static/js/main.a681f2a7.js.map"
+    "main.css": "./static/css/main.2de7761d.css",
+    "main.js": "./static/js/main.7bf689f6.js",
+    "static/media/mia_festaJun.jpg": "./static/media/mia_festaJun.1b384a45135939d43eda.jpg",
+    "static/media/frez.jpg": "./static/media/frez.b33a47181ea870073c81.jpg",
+    "static/media/goku.jpg": "./static/media/goku.359997a48413dbda4ed1.jpg",
+    "static/media/raul.jpg": "./static/media/raul.650286f9e7be0815b416.jpg",
+    "static/media/ken.jpg": "./static/media/ken.2e9e955b16f72e2a1372.jpg",
+    "index.html": "./index.html",
+    "main.2de7761d.css.map": "./static/css/main.2de7761d.css.map",
+    "main.7bf689f6.js.map": "./static/js/main.7bf689f6.js.map"
   },
   "entrypoints": [
     "static/css/main.2de7761d.css",
-    "static/js/main.a681f2a7.js"
+    "static/js/main.7bf689f6.js"
   ]
 }
