@@ -6,7 +6,7 @@ import Portfolio from "./routes/Portfolio";
 import Footer from "./routes/Footer";
 import Resume from "./routes/Resume";
 import Contacts from "./routes/Contacts";
-import {Route, Routes, Navigate } from "react-router-dom";
+import {Route, Routes, Navigate, } from "react-router-dom";
 import "./styles.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
